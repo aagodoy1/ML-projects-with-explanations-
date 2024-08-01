@@ -1,1 +1,2 @@
 # Portafolio
+Repository where I have the projects I've done that I feel I have learn the most before and when creating them. Additionally I added notes in most of the lines to explain why I am doing what I am doing, so everyone that reads it can understand. 
